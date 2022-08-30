@@ -1,7 +1,7 @@
-![](https://img.shields.io/badge/2022-Winner%20%F0%9F%8F%86-yellow) ![](https://img.shields.io/badge/2022-1st%20Place-brightgreen)
+<img width="1064" alt="Screenshot 2022-08-30 at 5 42 57 PM" src="https://user-images.githubusercontent.com/29945147/187409070-f1e8291f-c127-4e2c-977c-6bf6f64e7a41.png">
 
 # Singapore Airlines AppChallenge 2022
-<img width="1064" alt="Screenshot 2022-08-30 at 5 42 57 PM" src="https://user-images.githubusercontent.com/29945147/187409070-f1e8291f-c127-4e2c-977c-6bf6f64e7a41.png">
+![](https://img.shields.io/badge/2022-Winner%20%F0%9F%8F%86-yellow) ![](https://img.shields.io/badge/2022-1st%20Place-brightgreen)
 
 The Singapore Airlines App Challenge is a annual gloabl hackathon hosted by the Singapore Airlines Group to find innovative solutions to real-life industry challeges. This is the project repository for the Winning Submission of the App Challenge 2022.
 
