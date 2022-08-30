@@ -7,7 +7,7 @@ The Singapore Airlines App Challenge is a annual gloabl hackathon hosted by the 
 
 ## Problem Statement
 How might we use Artificial Intelligence to recommend destinations and ancillary services to customers during the flight booking process, based on their profiles and preferences?
-- [Info Kit](#)
+- [Info Kit](https://github.com/SEAT-SIA-AppChallenge-2022/.github/blob/main/(AppChallenge%202022)%20INFO%20KIT%20-%20AI%20recommendation.pdf)
 
 ## Solution
 Our project used TensorFlow Recommenders A.I., which considers user profiles and preferences to recommend activities, accommodations and other ancillary services to users post flight booking. We aimed to leverage our A.I. recommendation system to create a stickier ecosystem and ultimately increase the revenue streams to the Singapore Airlines Group. Our solution was served directly to the users with a friendly Progressive Web Application (PWA).
