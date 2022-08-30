@@ -15,3 +15,9 @@ Our project used TensorFlow Recommenders A.I., which considers user profiles and
 ## Repository Links
 - [Frontend](https://github.com/SEAT-SIA-AppChallenge-2022/SEAT-frontend)
 - [Backend A.I.](https://github.com/SEAT-SIA-AppChallenge-2022/SEAT-recommender)
+
+## Contact Us
+- [Shenyi Cui](https://www.linkedin.com/in/shenyi-cui-4b9b95211/)
+- [Aaron Kwah](https://www.linkedin.com/in/aaronkwah/)
+- [Terence Poh](https://www.linkedin.com/in/terence-poh-a0715b179/)
+- [Emmanuel Ang](https://www.linkedin.com/in/emmanuelangyx/)
