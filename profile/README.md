@@ -3,7 +3,7 @@
 # Singapore Airlines AppChallenge 2022
 ![](https://img.shields.io/badge/2022-Winner%20%F0%9F%8F%86-yellow) ![](https://img.shields.io/badge/2022-1st%20Place-brightgreen)
 
-The Singapore Airlines App Challenge is a annual gloabl hackathon hosted by the Singapore Airlines Group to find innovative solutions to real-life industry challeges. This is the project repository for the Winning Submission of the App Challenge 2022.
+The Singapore Airlines App Challenge is a annual global hackathon hosted by the Singapore Airlines Group to find innovative solutions to real-life industry challeges. This is the project repository for the Winning Submission of the App Challenge 2022.
 
 ## Problem Statement
 How might we use Artificial Intelligence to recommend destinations and ancillary services to customers during the flight booking process, based on their profiles and preferences?
