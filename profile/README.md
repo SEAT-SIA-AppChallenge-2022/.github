@@ -1,4 +1,4 @@
-<img width="1064" alt="Screenshot 2022-08-30 at 5 42 57 PM" src="https://user-images.githubusercontent.com/29945147/187409070-f1e8291f-c127-4e2c-977c-6bf6f64e7a41.png">
+![SEAT_AppRender_White](https://user-images.githubusercontent.com/29945147/188915459-81a963ea-9417-4a74-a299-81dc6b401344.png)
 
 # Singapore Airlines AppChallenge 2022
 ![](https://img.shields.io/badge/2022-Winner%20%F0%9F%8F%86-yellow) ![](https://img.shields.io/badge/2022-1st%20Place-brightgreen)
@@ -21,3 +21,5 @@ Our project used TensorFlow Recommenders A.I., which considers user profiles and
 - [Aaron Kwah](https://www.linkedin.com/in/aaronkwah/)
 - [Terence Poh](https://www.linkedin.com/in/terence-poh-a0715b179/)
 - [Emmanuel Ang](https://www.linkedin.com/in/emmanuelangyx/)
+
+![SEAT_FullRender](https://user-images.githubusercontent.com/29945147/188915502-24f03afb-6bf9-4d45-8269-245140bc7786.png)
